@@ -1,0 +1,5 @@
+#2-1 simple message
+
+
+message="Hello, I like corn"
+print(message)

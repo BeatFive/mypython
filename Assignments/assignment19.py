@@ -1,0 +1,17 @@
+#3-8 Seeing the World
+places=['Paris','USA','United Kingdom','Sarawak','Japan']
+print(places)
+print(sorted(places))
+print(places)
+reverse_list= places.copy()
+reverse_list.sort(reverse=True)
+print(reverse_list)
+print(places)
+places.reverse()
+print(places)
+places.reverse()
+print(places)
+places.sort()
+print(places)
+places.sort(reverse=True)
+print(places)
